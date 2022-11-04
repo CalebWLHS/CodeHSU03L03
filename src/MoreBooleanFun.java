@@ -11,10 +11,7 @@ public class MoreBooleanFun {
 
         System.out.println("Current age: " + myAge);
 
-        //convert these into something more complete using if statements
-        //System.out.println("Can rent a car: " + (myAge >= 25));
-        //System.out.println("Gets a senior discount: "+ (myAge >= 65));
-        //System.out.println("Can order from children's menu: " + (myAge <=12));
+
 
         if(myAge >= 25){
             System.out.println("You can rent a car!");
